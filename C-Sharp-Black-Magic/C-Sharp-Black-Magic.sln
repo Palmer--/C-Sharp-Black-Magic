@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericObject", "GenericObj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMemoryManipulation", "StringMemoryManipulation\StringMemoryManipulation.csproj", "{EAE3ECF5-B450-45D8-B453-AB8CF971067E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularDependencies", "CircularDependencies\CircularDependencies.csproj", "{843410F9-FD08-4C55-A43B-432ABAF54949}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EAE3ECF5-B450-45D8-B453-AB8CF971067E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAE3ECF5-B450-45D8-B453-AB8CF971067E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAE3ECF5-B450-45D8-B453-AB8CF971067E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{843410F9-FD08-4C55-A43B-432ABAF54949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{843410F9-FD08-4C55-A43B-432ABAF54949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{843410F9-FD08-4C55-A43B-432ABAF54949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{843410F9-FD08-4C55-A43B-432ABAF54949}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
